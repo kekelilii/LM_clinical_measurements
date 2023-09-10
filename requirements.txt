@@ -1,0 +1,5 @@
+transformers[torch]
+accelerate
+evaluate
+ray[tune]
+datasets
